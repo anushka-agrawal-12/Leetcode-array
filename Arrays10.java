@@ -1,3 +1,4 @@
+//Find missing no. in an array
 public class Arrays10 {
     public static int MissingNumber(int[] arr, int N){
         int XOR1= 0;
